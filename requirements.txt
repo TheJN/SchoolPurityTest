@@ -1,8 +1,6 @@
-python
 pandas
 streamlit
 scipy
 numpy
-pymongo
-request
+pymongo == 4.7.2
 plotly
